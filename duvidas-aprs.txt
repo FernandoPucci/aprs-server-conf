@@ -1,0 +1,9 @@
+DUVIDAS APRS
+============
+  
+IGATE
+-----  
+- Quando envio uma mensagem a partir da rede, penso que deveria aparecer via rádio no IGATE. Se sim, onde ajusto isto, pois nem  todas estão aparecendo.
+
+- Avaliar servidor do Ronualdo - Quais vantagens? 
+http://aprs-mg.duckdns.org:14501/
